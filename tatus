@@ -1,0 +1,30 @@
+[33mcommit a7f626c9509b59d79f14c17612f745b6423541d9[m
+Merge: 1bc48ee 84c6ed4
+Author: Yash Shah <yashshah2692@gmail.com>
+Date:   Wed Feb 12 16:25:39 2014 -0500
+
+    Merge branch 'master' of github.com:yash03/Git-Tutorial
+
+[33mcommit 84c6ed4307f4841d700fd8e4b32c3031d66ce574[m
+Author: yash03 <yashshah2692@gmail.com>
+Date:   Wed Feb 12 12:57:47 2014 -0800
+
+    Initial commit
+
+[33mcommit 1bc48ee666241c3a5964f8e6e8e30e0b654dd55f[m
+Author: Yash Shah <yashshah2692@gmail.com>
+Date:   Sun Feb 9 13:20:57 2014 -0500
+
+    Third Commit
+
+[33mcommit 777945e34e9a9bf5cca6930dd1d5780f048bd394[m
+Author: Yash Shah <yashshah2692@gmail.com>
+Date:   Fri Feb 7 14:36:12 2014 -0500
+
+    Second commit
+
+[33mcommit e91115dc08550ce5325c2c1e499281cb572c8bdf[m
+Author: Yash Shah <yashshah2692@gmail.com>
+Date:   Fri Feb 7 14:21:09 2014 -0500
+
+    First commit
