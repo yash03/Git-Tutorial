@@ -1,0 +1,10 @@
+http://www.youtube.com/watch?v=8r_IErxmoUc
+
+1) Go to .ssh folder after creating ssh key
+2) spot ssh.pub
+3) open with notepad
+4) Copy the whole line
+5) go to github.com
+6) go to tools-> ssh key
+7) Click add shh key
+8) Give title and paste the key.
